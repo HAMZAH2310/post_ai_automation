@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Outfit';
+  src: url('/fonts/Outfit-VariableFont_wght.ttf') format('woff2');
+}
+
+:root {
+  --font-outfit: "Outfit", sans-serif;
+}
+
+@theme inline {
+  --font-outfit: var(--font-outfit);
+}
