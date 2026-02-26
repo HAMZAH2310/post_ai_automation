@@ -1,1 +1,2 @@
-# Template Nextjs by Daffa Fathan
+# Post AI Automation
+
