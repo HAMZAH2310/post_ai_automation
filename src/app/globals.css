@@ -3,7 +3,7 @@
 
 @custom-variant dark (&:is(.dark *));
 
-@import "./css/base.css";
+/* @import "./css/base.css"; */
 @import "./css/light.css";
 @import "./css/dark.css";
 @import "./css/theme.css";

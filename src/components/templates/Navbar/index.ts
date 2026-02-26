@@ -1,0 +1,1 @@
+export { default as NavbarDesktop } from "~/components/templates/Navbar/NavbarDekstop";
